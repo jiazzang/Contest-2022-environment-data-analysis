@@ -174,7 +174,7 @@
 #### 최종 분석 데이터셋 생성
 * 수집된 데이터를 병합하여 최종 분석 데이터셋
 
-#### [데이터 전처리 및 분석](github.com/jiazzang/Contest_2022_environment_data_analysis/blob/main/데이터_전처리_및_분석.ipynb)
+#### [데이터 전처리 및 분석 코드](github.com/jiazzang/Contest_2022_environment_data_analysis/blob/main/데이터_전처리_및_분석.ipynb)
 * 결측치 대체
 * 정규화 및 표준화
 * 파생변수 생성
