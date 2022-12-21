@@ -171,14 +171,16 @@
 </details>
 
 ## 4. 분석 과정  
-  
-### 데이터 전처리 및 분석
+
+### 분석 절차  
+![환경_공모전_분석_절차](https://user-images.githubusercontent.com/118996664/208828162-b8851000-8173-444e-a269-59ddcbd2a5b9.png)  
+
+* 분석 주제 선정  
+* 데이터 수집 및 전처리  
+* 데이터 분석 및 시각화  
+
 #### [데이터 전처리 및 분석 코드.ipynb](https://github.com/jiazzang/Contest_2022_environment_data_analysis/blob/2fb5dc0410852cc0de04eb0912d7a85184fbb107/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%B6%84%EC%84%9D.ipynb)
-* 결측치 대체
-* 정규화 및 표준화
-* 파생변수 생성
-* 최적 회귀모형 선별
-* 시군구별 환경오염지수 산출
+
 
 ## 5. 분석 보고서
 #### [2022 환경 데이터 분석·활용 공모전 - 분석 보고서](https://elated-production-7bb.notion.site/2022-5861322b6e0a47b9a9bb6a471e656089)
