@@ -180,7 +180,3 @@
 * 데이터 분석 및 시각화  
 
 #### [데이터 전처리 및 분석 코드.ipynb](https://github.com/jiazzang/Contest_2022_environment_data_analysis/blob/2fb5dc0410852cc0de04eb0912d7a85184fbb107/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%B6%84%EC%84%9D.ipynb)
-
-
-## 5. 분석 보고서
-#### [2022 환경 데이터 분석·활용 공모전 - 분석 보고서](https://elated-production-7bb.notion.site/2022-5861322b6e0a47b9a9bb6a471e656089)
